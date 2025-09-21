@@ -1,5 +1,7 @@
 # 🚇 Measuring Impact of the TACT Campaign on Public Transit Riders’ Awareness
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tact-awareness-impact-a-b-causal-analysis-across-us-transit-xw.streamlit.app)
+
 [![Build](https://img.shields.io/github/actions/workflow/status/USER/REPO/ci.yml?label=CI)]()
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 [![Streamlit](https://img.shields.io/badge/App-Streamlit-brightgreen)]()
