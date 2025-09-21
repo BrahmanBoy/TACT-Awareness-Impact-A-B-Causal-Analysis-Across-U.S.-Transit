@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/App-Streamlit-brightgreen)]()
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-teal)]()
 
-**Business takeaway (placeholder): Across six transit regions, **before→after awareness lifts were small (≈ −10pp…+10pp)** and **not statistically reliable after FDR correction.** Most observed changes were **below the study’s detectable threshold (MDE)**, meaning the data are **underpowered** to confirm modest effects.
+**Business takeaway (placeholder)**: Across six transit regions, **before→after awareness lifts were small (≈ −10pp…+10pp)** and **not statistically reliable after FDR correction.** Most observed changes were **below the study’s detectable threshold (MDE)**, meaning the data are **underpowered** to confirm modest effects.
 **Recommendation:** increase per-wave sample sizes **2–4×** and/or run a **stronger design** (e.g., DiD with controls, PSM).
 
 ---
